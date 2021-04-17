@@ -8,7 +8,3 @@ Main ist für Locations und Schnitte des aktuellen Zustands gedacht. Derzeit sin
 Für jede Variante ist ein branch zu erstellen, der den Strassennamen enthalten sollte.
 
 Dieses vorgehen erlaubt, es über den Branch-Selektor einfach Varianten zu vergleichen.
-
-www.schwabach-bewegen.de
-
-[Übersicht](https://schwabach-bewegen.github.io/plan/locations/)
